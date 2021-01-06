@@ -1,0 +1,47 @@
+body{
+  background-image: url('202_Image2.jpg');
+}
+li a.active {
+  background-color: #4CAF50;
+  color: white;
+  text-decoration:none;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+ a:link {
+ text-decoration: none;}
+
+
+
+
+ul
+{
+	
+ list-style-type: none;
+  margin: 0;
+  padding: 100px;
+  width: 100%;
+  background-color: #f1f1f1;
+  
+  height: 100%;
+  overflow: auto;
+   background-size:100%;
+	padding:30px;
+	font-size:30px;
+	text-decoration:none;
+	 
+}
+.center{
+    text-align:center;
+	
+}
+
+
+
+
+
+
+
